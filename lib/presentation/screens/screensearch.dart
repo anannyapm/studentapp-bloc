@@ -1,9 +1,10 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:stdappbloc/model/model.dart';
 
-import '../functions/db_functions.dart';
+
+import '../../data/model/model.dart';
+import '../../database/functions/db_functions.dart';
 import 'screenprofile.dart';
 import 'subscreens/listdata_widget.dart';
 

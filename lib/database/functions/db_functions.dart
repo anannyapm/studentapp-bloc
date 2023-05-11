@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:hive_flutter/adapters.dart';
 
-import '../model/model.dart';
+import '../../data/model/model.dart';
+
 
 //studentListNotifier(object of valuenotifier) contains list type values passed in via ValueNotifier constructor
 ValueNotifier<List<StudentModel>> studentListNotifier = ValueNotifier([]);

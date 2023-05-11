@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:stdappbloc/screens/screenhome.dart';
+import 'package:stdappbloc/presentation/screens/screenhome.dart';
 
-import 'model/model.dart';
+import 'data/model/model.dart';
+
 
 
 

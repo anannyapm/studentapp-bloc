@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 
-import '../functions/db_functions.dart';
+import '../../database/functions/db_functions.dart';
 import 'screenadd.dart';
 import 'screensearch.dart';
 import 'subscreens/listdata_widget.dart';

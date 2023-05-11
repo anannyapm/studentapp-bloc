@@ -4,8 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 
-import '../functions/db_functions.dart';
-import '../model/model.dart';
+import '../../data/model/model.dart';
+import '../../database/functions/db_functions.dart';
+
 import 'screenhome.dart';
 
 

@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 
-import '../../functions/db_functions.dart';
-import '../../model/model.dart';
+import '../../../data/model/model.dart';
+import '../../../database/functions/db_functions.dart';
 import '../screenprofile.dart';
 
 
