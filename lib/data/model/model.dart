@@ -29,4 +29,6 @@ class StudentModel {
       required this.major,
       required this.photo,
       this.id});
+
+
 }
